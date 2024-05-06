@@ -1,4 +1,6 @@
-
+// HW8
+// Gabriel Bermudez
+// CS4800 HW8
 
 public class WaitingForMoneyState implements StateOfVendingMachine {
     private VendingMachine vendingMachine;

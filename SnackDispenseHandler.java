@@ -1,4 +1,6 @@
-
+// HW8
+// Gabriel Bermudez
+// CS4800 HW8
 
 public abstract class SnackDispenseHandler {
     protected SnackDispenseHandler nextHandler;

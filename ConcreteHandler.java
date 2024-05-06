@@ -1,4 +1,6 @@
-
+// HW8
+// Gabriel Bermudez
+// CS4800 HW8
 
 public class ConcreteHandler extends SnackDispenseHandler {
     private Snack snack;
